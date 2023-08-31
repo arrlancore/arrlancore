@@ -1,22 +1,11 @@
-### Hello, I'm Dwiki Arlan! 👋
+**Hey there, I'm Dwiki Arlan! 🚀**
 
-🔭 **Software Engineer** with over 5 years of experience in crafting state-of-the-art software solutions.
+Diving deep into the world of software for over half a decade, I've emerged as a **Software Craftsman**, weaving code into impactful digital solutions. At the heart of my journey lies a passion for elevating teams, refining architectures, and nurturing an active writing habit on the side.
 
-🌱 Currently spearheading dynamic teams and optimizing code architectures.
+Fluency? Well, I speak **ReactJs, NextJs, Vue, Redux, NodeJs, Expressjs, NestJs**, and the tech dialects continue. A proud alumnus of **Jakarta Muhammadiyah University** & **Andalas University**, my academic roots ground me as I explore the vast tech landscape.
 
-🛠 Proficient in **ReactJs, Redux, NodeJs, Expressjs**, and more.
+Got questions on React, SSR, TypeScript, ReasonML? Dive into a conversation with me. Let's unravel the complexities together. And if you're curious, yes, I once built a website for a friend's final college project before ever crafting one for myself!
 
-📚 Alumnus of **Jakarta Muhammadiyah University** and **Andalas University**.
-
-🔍 Exploring new technologies and driving innovation.
-
-💬 Ask me about React, SSR, TypeScript, or any of my diverse tech experiences.
-
-😄 Pronouns: He/Him
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dwikiarlan/)
-
-🔗 [Portfolio](https://garrulous-gravity-f14.notion.site/Dwiki-Arlan-Highlighted-Recent-Works-14e6c969d42c4dc281836fba48463ae4?pvs=4)
-
-⚡ Fun fact: I once helped a friend build a website for their final college project, even though I had never created one for myself!
+💌 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/dwikiarlan/).  
+🎨 Explore my professional journey: [Portfolio](https://garrulous-gravity-f14.notion.site/Dwiki-Arlan-Highlighted-Recent-Works-14e6c969d42c4dc281836fba48463ae4?pvs=4).
 
