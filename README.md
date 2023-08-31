@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello, I'm Dwiki Arlan! 👋
 
-<!--
-**arrlancore/arrlancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Software Engineer** with over 5 years of experience in crafting state-of-the-art software solutions.
 
-Here are some ideas to get you started:
+🌱 Currently spearheading dynamic teams and optimizing code architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Proficient in **ReactJs, Redux, NodeJs, Expressjs**, and more.
+
+📚 Alumnus of **Jakarta Muhammadiyah University** and **Andalas University**.
+
+🔍 Exploring new technologies and driving innovation.
+
+💬 Ask me about React, SSR, TypeScript, or any of my diverse tech experiences.
+
+😄 Pronouns: He/Him
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dwikiarlan/)
+
+🔗 [Portfolio](https://garrulous-gravity-f14.notion.site/Dwiki-Arlan-Highlighted-Recent-Works-14e6c969d42c4dc281836fba48463ae4?pvs=4)
+
+⚡ Fun fact: I once helped a friend build a website for their final college project, even though I had never created one for myself!
+
