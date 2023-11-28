@@ -1,6 +1,6 @@
 **Hey there, I'm Dwiki Arlan! 🚀**
 
-Diving deep into the world of software for over half a decade, I've emerged as a **Software Craftsman**, weaving code into impactful digital solutions. At the heart of my journey lies a passion for elevating teams, refining architectures, and nurturing an active writing habit on the side.
+Diving deep into the world of software for over half a decade, I've emerged as a **Software Developer**, weaving code into impactful digital solutions. At the heart of my journey lies a passion for elevating teams, refining architectures, and nurturing an active writing habit on the side.
 
 Fluency? Well, I speak **ReactJs, NextJs, Vue, Redux, NodeJs, Expressjs, NestJs**, and the tech dialects continue.
 
